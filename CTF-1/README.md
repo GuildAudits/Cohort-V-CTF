@@ -4,7 +4,7 @@ Welcome to the Guild Academy Capture The Flag (CTF) Challenge!
 
 This README will guide you on how to participate, interact with the smart contracts, and successfully complete the challenge.
 
----
+
 
 ## 🎯 Goal
 
@@ -12,7 +12,6 @@ The objective of this CTF is to **complete all 4 stages of the `GuildAcademyEntr
 
 Once completed, you will return to the factory and call the `submit()` function with your CTF instance address.
 
----
 
 ## 🧪 Setup & Process
 
