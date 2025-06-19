@@ -42,20 +42,9 @@ You don’t need to brute force anything. This is a logic bug based on how stora
 
 Please follow the instructions below to carry out the task and submit correctly.
 
-- DO NOT CLONE OR FORK THIS REPOSITORY!
-
-- Create a Private Repository and name it ```2025-06-guild-audit-test```
-
-- Type this command in your terminal and add this repo as a submodule.
-
-```sh
-git submodule add https://github.com/GuildAudits/2025-Cohort-4-Assessment-Test
-```
 - Write your test in the test folder performing this exploit either in foundry or hardhat.
 
 Since the is a foundry based repository, if you would like to perform the exploit using hardhat, you can add hardhat to foundry click [Here](https://hardhat.org/hardhat-runner/docs/advanced/hardhat-and-foundry) to set it up. 
-
-
 
 - Make sure your repo is private
 - Add DevPelz, josh4324 and Enniwealth as contributors to this repo so we can have access to examine your submission.
